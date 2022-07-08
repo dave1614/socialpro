@@ -1,6 +1,6 @@
 ## Social Pro
 
-### This is a pretty basic web application for social media functionalities. Built with laravel
+### This is a pretty basic web application for social media functionalities. Built with laravel 9
 
 <p>Below are instructions of how to install this application</p>
 <small>  Just run: </small>
